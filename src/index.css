@@ -1,0 +1,17 @@
+
+
+body {
+  margin: 0;
+  font-family: 'Baloo Paaji 2', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 20px;
+  color:"#363945"
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
