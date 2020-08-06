@@ -7,7 +7,6 @@ import axios from "axios";
 import Wrapper from "./Wrapper";
 import TextField from "@material-ui/core/TextField";
 import Loader from "react-loader-spinner";
-import LineChart from "./LineChart";
 
 class App extends Component {
   constructor(props) {
@@ -183,7 +182,6 @@ class App extends Component {
             )}
           </tbody>
         </Table>
-        <LineChart />
       </Wrapper>
     );
   }
